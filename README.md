@@ -13,3 +13,5 @@ http://www.r-fiddle.org/#/fiddle?id=xJc2Mwqv&version=4
 http://www.r-fiddle.org/#/fiddle?id=xJc2Mwqv&version=5
 
 http://www.r-fiddle.org/#/fiddle?id=xJc2Mwqv&version=7
+
+http://www.r-fiddle.org/#/fiddle?id=5PLGx8tR&version=1
