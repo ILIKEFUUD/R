@@ -22,3 +22,8 @@ http://www.r-fiddle.org/#/fiddle?id=epsNMRv0&version=2
 
 **data in**
 http://www.r-fiddle.org/#/fiddle?id=epsNMRv0&version=3
+
+
+made graphs
+
+http://www.r-fiddle.org/#/fiddle?id=epsNMRv0&version=7
