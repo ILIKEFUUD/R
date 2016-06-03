@@ -31,3 +31,5 @@ http://www.r-fiddle.org/#/fiddle?id=epsNMRv0&version=7
 NEW THING
 
 http://www.r-fiddle.org/#/fiddle?id=UFDP1QP8&version=1
+
+http://www.r-fiddle.org/#/fiddle?id=6jBqV96a
